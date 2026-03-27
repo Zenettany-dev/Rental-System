@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta>
+    <info author="Zenettany" description="Система аренды транспорта" version="1.0" type="script" />
+    
+    <script src="server.lua" type="server" />
+    <script src="client.lua" type="client" />
+    <script src="config.lua" type="shared" />
+    
+    <file src="sounds/610609bad055b8b.mp3" /> <!--ЭТО ДЛЯ START-->
+    
+    <file src="images/car_icon.png" />
+    
+    <min_mta_version server="1.5.0" client="1.5.0" />
+</meta>
