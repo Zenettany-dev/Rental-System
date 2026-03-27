@@ -24,9 +24,8 @@
 **1. Создайте папку ресурса**
 
 Зайдите в папку сервера:
-```
-server/mods/deathmatch/resources/
-```
+```server/mods/deathmatch/resources/```
+
 Создайте там папку `rental_system`
 
 **2. Скопируйте файлы**
@@ -41,10 +40,9 @@ server/mods/deathmatch/resources/
 **3. Настройте координаты**
 
 Откройте `config.lua` и измените координаты:
-```lua
+
 rentPoint = { x = 0.0, y = 0.0, z = 3.0 }   -- где стоит маркер и NPC
 spawnPoint = { x = 5.0, y = 5.0, z = 3.0 }   -- где появляется машина
-```
 
 Как узнать координаты:
 - Войдите в игру
@@ -191,4 +189,6 @@ MIT License
 Copyright (c) 2026 Zenettany
 
 Данный программный продукт предоставляется "как есть", без каких-либо гарантий.
+<img width="3000" height="1200" alt="kapalin2" src="https://github.com/user-attachments/assets/eaab8b53-0d76-473c-b82a-580ca706c66d" />
+
 ```
